@@ -1,0 +1,12 @@
+{
+  "latestVersion": "0.1.1",
+  "minSupportedVersion": "0.1.0",
+  "forceUpdate": false,
+  "licenseMode": "freeBeta",
+  "analysisLocked": false,
+  "batchAnalysisLocked": false,
+  "cloudEnabled": false,
+  "cloudStatus": "planned",
+  "updateMessage": "当前为最新内测版本。",
+  "downloadTip": "如需获取新版，请通过软件内反馈入口联系获取。"
+}
