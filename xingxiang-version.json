@@ -7,11 +7,12 @@
   "batchAnalysisLocked": false,
   "cloudEnabled": false,
   "cloudStatus": "planned",
-  "updateMessage": "发现 0.1.2 新版本，修复窗口拖拽/边缘缩放交互问题，并修复自定义关键词/提示词编辑后无法保存的问题。请通过软件内反馈入口联系获取新版。",
+  "updateMessage": "发现 0.1.2 新版本，修复窗口拖拽/边缘缩放交互问题，并修复自定义关键词/提示词编辑后无法保存的问题。",
   "releaseNotes": [
     "修复窗口拖拽与边缘缩放交互问题。",
     "修复自定义关键词 / 提示词编辑后无法保存的问题。"
   ],
   "downloadTip": "如需获取新版，请通过软件内反馈入口联系获取。",
+  "downloadUrl": "https://xingxiang-downloads-1442994893.cos.ap-chengdu.myqcloud.com/xingxiang-gallery-setup-0.1.2.exe",
   "wechat": "Dec_Tiks"
 }
